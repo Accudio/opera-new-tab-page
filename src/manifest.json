@@ -1,0 +1,20 @@
+{
+   "name": "Opera New Tab Page",
+   "version": "1.0.0",
+   "description": "Allows you to set a custom new tab page in Opera. Based on extension by Sanish Mistry.",
+   "permissions": [ "tabs", "storage" ],
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "developer": {
+      "name": "Alistair Shepherd"
+   },
+   "options_page": "options.html",
+   "icons": {
+      "128": "custom-new-tab-128.png",
+      "48": "custom-new-tab-48.png",
+      "32": "custom-new-tab-32.png",
+      "16": "custom-new-tab-16.png"
+   },
+   "manifest_version": 2
+}
