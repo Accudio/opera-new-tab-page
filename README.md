@@ -10,7 +10,7 @@ As the Opera developers seem to continually remove the ability to do things like
 
 Tested on Opera for Windows, 64-bit, version 58.0.3135.65.
 
-Download opera-new-tab-page.nex from dist/ or from releases, drag and drop file onto the Opera extensions window.
+Download opera-new-tab-page.nex or from releases, drag and drop file onto the Opera extensions window.
 Alternatively you can clone this repository, and select src/ using Opera's "Load unpacked extension..." button in the extension developer mode.
 
 ## Version History
