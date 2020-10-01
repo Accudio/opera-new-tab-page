@@ -1,5 +1,7 @@
 # Opera New Tab Page
 
+***Does not work on latest version of Opera as of 01/10/2020 (71.0.3770.198). May work in older versions***
+
 Extension to change the new tab page in newer versions of [Opera](https://www.opera.com/).
 
 Based on the now unavailable Custom New Tab Page extension by Sanish Mistry, this uses a workaround to change the new tab page of latest versions of [Opera](https://www.opera.com/). Although functional, Custom New Tab Page removed focus from the omnibox when the new tab was opened, something I found made it impossible for me to use. By updating the tab rather replacing it, this extension retains focus.
